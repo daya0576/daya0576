@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🚒 I’m currently working on Alipay as a SRE([Server Reboot Engineer](/blog/20180403/impressions-of-google-sre/))
+- 🐍 I'm familiar with Python Backend Development(built [unsw.co](https://unsw.co/) / worked in [Hypers](https://www.hypers.com/))
+- 🥑 Foodie - [instagram](https://www.instagram.com/daya0576/)
+- 🏓 I love playing Table Tennis!
+
+
 <!--
 **daya0576/daya0576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
