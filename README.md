@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🚒 currently working for Alipay as SRE([Server Reboot Engineer](/blog/20180403/impressions-of-google-sre/))
+- 🚒 currently working for Alipay as SRE([Server Reboot Engineer](https://changchen.me/blog/20180403/impressions-of-google-sre/))
 - 🐍 familiar with Python Backend Development(built [unsw.co](https://unsw.co/) / worked in [Hypers](https://www.hypers.com/))
 - 🥑 Foodie - [instagram](https://www.instagram.com/daya0576/)
 - 🏓 I also love playing Table Tennis!
