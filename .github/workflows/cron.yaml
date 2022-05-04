@@ -1,4 +1,4 @@
-name: cron job
+name: cron
 
 on:
   schedule:
@@ -24,7 +24,7 @@ jobs:
       run: |
         git config --local user.email "daya0576@gmail.com"
         git config --local user.name "daya0576(bot)"
-        git commit -m "Quote of the D[Iay $(date +%Y-%m-%d)" -a
+        git commit -m "Quote of the Day $(date +%Y-%m-%d)" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
