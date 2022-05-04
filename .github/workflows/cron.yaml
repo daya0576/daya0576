@@ -3,6 +3,9 @@ name: cron
 on:
   schedule:
     - cron: "1 1 * * *"
+  push:
+    branches:
+      - master
 
 jobs:
   build:
