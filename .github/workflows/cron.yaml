@@ -21,7 +21,6 @@ jobs:
         architecture: 'x64'
     - name: Create local changes
       run: |
-        pip install -r requirements.txt
         cd qotd && python generate.py
     - name: Commit files
       run: |
