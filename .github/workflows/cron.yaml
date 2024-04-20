@@ -24,7 +24,7 @@ jobs:
         cd qotd && python generate.py
     - name: Commit files
       run: |
-        git config --local user.email "daya0576@gmail.com"
+        git config --local user.email "daya_bot@gmail.com"
         git config --local user.name "daya0576(bot)"
         git add .
         git commit -m "Quote of the Day $(date +%Y-%m-%d)" -a
